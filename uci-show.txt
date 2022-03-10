@@ -1,0 +1,11 @@
+acd.config=default
+acd.config.AutoConfigEnable='0'
+acd.config.HCSecsBetweenDHCPRequestPackets='2'
+acd.config.HRSecsBetweenDHCPRequestPackets='3'
+acd.config.HRSecsBetweenStateContinuityCheck='15'
+acd.config.HRMaxTriesWaitingForDHCPResponse='3'
+acd.config.HCMaxTxTriesBeforeGettingIPAddr='10'
+acd.config.SecsBetweenChecksForCableConnection='5'
+acd.config.AcdDebugLevel='1'
+acd.config.DisableHCMode='1'
+acd.config.DisableWDSSTAInHREMode='0'

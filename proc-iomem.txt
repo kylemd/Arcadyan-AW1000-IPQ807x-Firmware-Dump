@@ -1,0 +1,76 @@
+00058000-0005845b : qmp_phy_base
+00059000-0005917f : qusb_phy_base
+00078000-0007845b : qmp_phy_base
+00079000-0007917f : qusb_phy_base
+00084000-00084fff : /soc/phy@84000
+0008e000-0008efff : /soc/phy@8e000
+00090000-00090063 : /soc/mdio@90000
+000e3000-000e3fff : /soc/qrng@e1000
+004ab000-004ab01f : rmb
+00704000-00723fff : /soc/dma@704000
+01000000-012fffff : /soc/pinctrl@1000000
+01800000-0187ffff : /soc/qcom,gcc@1800000
+0200a000-0200a6ff : cnfg
+0200f000-0200ffff : core
+02400000-02bfffff : chnls
+02c00000-033fffff : obsrvr
+03800000-039fffff : intr
+06002000-06002fff : stm-base
+  06002000-06002fff : stm-base
+06021000-06021fff : funnel-base
+  06021000-06021fff : funnel-base
+06026000-06026fff : replicator-base
+  06026000-06026fff : replicator-base
+06027000-06027fff : tmc-base
+  06027000-06027fff : tmc-base
+06028000-06028fff : tmc-base
+  06028000-06028fff : tmc-base
+06100000-06100fff : funnel-base
+  06100000-06100fff : funnel-base
+06120000-06120fff : funnel-base
+  06120000-06120fff : funnel-base
+06130000-06130fff : funnel-base
+  06130000-06130fff : funnel-base
+0619c000-0619cfff : /soc/etm@619c000
+  0619c000-0619cfff : /soc/etm@619c000
+0619d000-0619dfff : /soc/etm@619d000
+  0619d000-0619dfff : /soc/etm@619d000
+0619e000-0619efff : /soc/etm@619e000
+  0619e000-0619efff : /soc/etm@619e000
+0619f000-0619ffff : /soc/etm@619f000
+  0619f000-0619ffff : /soc/etm@619f000
+061a1000-061a1fff : funnel-base
+  061a1000-061a1fff : funnel-base
+07700000-07700033 : /soc/audio@7700000
+07700100-077002ff : /soc/qcom,adss_clk@7700000
+07704000-07705fff : /soc/pcm@7704000
+07708000-07708fff : /soc/mbox@7708000
+07709000-07709fff : /soc/stereo@7709000
+0770e000-0770efff : /soc/mbox@770e000
+0770f000-0770ffff : /soc/stereo@770f000
+07803000-07804fff : /soc/sdcc1ice@7803000
+07884000-078aefff : /soc/dma@7884000
+078b3000-078b31ff : msm_serial
+078b5000-078b55ff : /soc/spi@78b5000
+078b8000-078b85ff : /soc/spi@78b8000
+07984000-0799dfff : /soc/dma@7984000
+079b0000-079bffff : /soc/qpic-nand@79b0000
+08a00000-08a07fff : /soc/usb3@8A00000/dwc3@8A00000
+  08a00000-08a07fff : /soc/usb3@8A00000/dwc3@8A00000
+08a0c100-08a0ccff : /soc/usb3@8A00000/dwc3@8A00000
+08c00000-08c07fff : /soc/usb3@8C00000/dwc3@8C00000
+  08c00000-08c07fff : /soc/usb3@8C00000/dwc3@8C00000
+08c0c100-08c0ccff : /soc/usb3@8C00000/dwc3@8C00000
+0b017000-0b017fff : kpss_wdt
+0b111000-0b116fff : /soc/qcom,apss_clk@b111000
+0c000000-0dffffff : /soc/wifi1@c0000000
+3a001000-3a0011ff : eth0
+3a001200-3a0013ff : eth1
+3a001400-3a0015ff : eth2
+3a001600-3a0017ff : eth3
+3a001800-3a0019ff : eth4
+3a007000-3a00affe : eth5
+41000000-4a3fffff : System RAM
+  41208000-41b052d3 : Kernel code
+  41d00000-41dc5cfb : Kernel data
+51700000-7fffffff : System RAM
