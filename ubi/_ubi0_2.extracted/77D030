@@ -1,0 +1,19 @@
+Timer ID: 3
+[DRV] [drv_changeProcessPriority:10449] Process 11554 priority is -8[DRV] [drv_changeProcessPriority:10453] Process 11554: old priority -8, new priority -15VOICE_API_task=13024
+sip_gui_debug_task=11554
+
+#[SIP_CORE_Phone_CFGSync,5769], ()
+
+#[SIP_CORE_Phone_CFGSync,5769], ()
+
+#[SIP_CORE_Phone_CFGSync,5769], (x.)
+
+#[SIP_CORE_Phone_CFGSync,5769], ()
+
+#[SIP_CORE_Phone_CFGSync,5769], ()
+
+#[SIP_CORE_Phone_CFGSync,5769], ()
+
+#[SIP_CORE_Phone_CFGSync,5769], ()
+
+#[SIP_CORE_Phone_CFGSync,5769], ()

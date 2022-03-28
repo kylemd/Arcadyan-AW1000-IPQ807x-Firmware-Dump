@@ -1,0 +1,11 @@
+main=11750
+SYS_TIMER_Task=12736
+sh: /data/voip_debug_log/new/arcsip_log_*: not found
+SIP_CORE_RestorePhoneBook: access error! errno=2
+TEL_LOG_UpdateCallRecord: access error! errno=2
+SIP_CORE_ProcUI=13173
+UMTS_API_Proc_Task=13174
+VOICE_API_task=13175
+sip_gui_debug_task=11750
+SIP_CORE_Task=11750
+SIP_CORE_Check_Recv=13222
